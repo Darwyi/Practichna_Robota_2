@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        // Виведення інформації про примітивні типи даних
         System.out.println("Інформація про примітивні типи даних:");
 
         System.out.println("byte:");
